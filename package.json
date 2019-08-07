@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "mongoose": "^5.6.8"
+  },
+  "name": "omnistack_88",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andrebertonha/omnistack_88.git",
+  "author": "André Martins <andrebertonhadev@gmail.com>",
+  "license": "MIT"
+}
