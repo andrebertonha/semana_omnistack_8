@@ -3,7 +3,8 @@
     "axios": "^0.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
-    "mongoose": "^5.6.8"
+    "mongoose": "^5.6.8",
+    "react-native-cli": "^2.0.1"
   },
   "name": "omnistack_88",
   "version": "1.0.0",
