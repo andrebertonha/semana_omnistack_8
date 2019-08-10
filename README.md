@@ -32,8 +32,8 @@
 ### request cadastrar desenvolvedor [POST] [/devs]
 
 + Parameters 
-    Accept: username: json object 
-    Content-Type: application/json; charset=utf-8    
+    - Accept: username: json object 
+    - Content-Type: application/json; charset=utf-8    
     + example:
       ```javascript
       {
@@ -45,16 +45,16 @@
 ### request registrar like [POST]  [/devs/:devId/likes]
 
 + Headers
-    Accept: user: _id
-    Content-Type: application/json; charset=utf-8
+    - Accept: user: _id
+    - Content-Type: application/json; charset=utf-8
 
 + Response 200 (application/json)
 
 ### request registrar dislike [POST]  [/devs/:devId/dislikes]
 
 + Headers
-    Accept: user: _id
-    Content-Type: application/json; charset=utf-8
+    - Accept: user: _id
+    - Content-Type: application/json; charset=utf-8
 
 + Response 200 (application/json)
       
