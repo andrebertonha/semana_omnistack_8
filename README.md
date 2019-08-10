@@ -17,6 +17,7 @@
     - react-native-cli deve estar instalado
     - yarn install
     - yarn start
+    - start android emulator and access tindev application and reload
     
 - Rotas da aplicação 
   
