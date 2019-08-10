@@ -40,6 +40,21 @@
       }
       ```
       + Response 200 (application/json)
-      
+
+### request registrar like [POST]  [/devs/:devId/likes]
+
++ Headers
+    Accept: user: _id
+    Content-Type: application/json; charset=utf-8
+
++ Response 200 (application/json)
+
+### request registrar dislike [POST]  [/devs/:devId/dislikes]
+
++ Headers
+    Accept: user: _id
+    Content-Type: application/json; charset=utf-8
+
++ Response 200 (application/json)
       
 
